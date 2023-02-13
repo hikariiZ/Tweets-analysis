@@ -1,1 +1,1 @@
-# Tweets-analysis
+The dataset contains tweets from 11/1/2022 to 19/3/2022. The aim of this project is to analyze whether tweets people post has effects on the price movement of bitcoin. I cleaned the data, applied sentiment analyis, wordcloud, LDA to describe the tweets. Then I did some further analysis with word count and emoji count etc. At the end I used 6-folds cross validation to determine whether the relationship between word count/sentiment and bitcoin movement holds or not.
